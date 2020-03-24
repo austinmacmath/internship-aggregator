@@ -1,0 +1,3 @@
+INSERT INTO jobs (position, company, city, state, listing_date, app_link, url, tags) VALUES
+    ('Data Science Intern', 'Lyft', 'San Francisco', 'CA', '2020-03-23', 'https://boards.greenhouse.io/lyft/jobs/4670121002?gh_jid=4670121002', 'https://www.linkedin.com/jobs/view/2020-data-scientist-intern-at-lyft-1513395950/', 'Data'),
+    ('Software Engineer Intern', 'Google', 'Mountain View', 'CA', '2020-03-22', 'https://careers.google.com/jobs/results/107760219573887686-software-engineering-intern-bs-fall-2020/?src=Online%2FLinkedIn%2Flinkedin_us&utm_campaign=contract&utm_medium=jobposting&utm_source=linkedin', 'https://www.linkedin.com/jobs/view/1784502244/?alternateChannel=search', 'SWE');
